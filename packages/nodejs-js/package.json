@@ -1,5 +1,5 @@
 {
-  "name": "dst-playground-js-nodejs",
+  "name": "dst-playground-nodejs-js",
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",

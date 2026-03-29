@@ -1,5 +1,5 @@
 {
-  "name": "dst-playground-ts-nodejs",
+  "name": "dst-playground-nodejs-ts",
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/index.ts",

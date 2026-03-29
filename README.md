@@ -7,9 +7,9 @@ Playground demos for [data-structure-typed](https://github.com/zrwusa/data-struc
 | Package | Stack | Try it |
 |---------|-------|--------|
 | [nestjs](./packages/nestjs) | NestJS + TypeScript | [StackBlitz](https://stackblitz.com/github/zrwusa/dst-playgrounds/tree/main/packages/nestjs) |
-| [react-ts](./packages/react-ts) | Vite + React + TypeScript | [StackBlitz](https://stackblitz.com/github/zrwusa/dst-playgrounds/tree/main/packages/react-ts) |
-| [ts-nodejs](./packages/ts-nodejs) | Node.js + TypeScript | [StackBlitz](https://stackblitz.com/github/zrwusa/dst-playgrounds/tree/main/packages/ts-nodejs) |
-| [js-nodejs](./packages/js-nodejs) | Node.js + JavaScript | [StackBlitz](https://stackblitz.com/github/zrwusa/dst-playgrounds/tree/main/packages/js-nodejs) |
+| [reactjs](./packages/reactjs) | Vite + React + TypeScript | [StackBlitz](https://stackblitz.com/github/zrwusa/dst-playgrounds/tree/main/packages/reactjs) |
+| [nodejs-ts](./packages/nodejs-ts) | Node.js + TypeScript | [StackBlitz](https://stackblitz.com/github/zrwusa/dst-playgrounds/tree/main/packages/nodejs-ts) |
+| [nodejs-js](./packages/nodejs-js) | Node.js + JavaScript | [StackBlitz](https://stackblitz.com/github/zrwusa/dst-playgrounds/tree/main/packages/nodejs-js) |
 
 ## Local Development
 
@@ -20,7 +20,7 @@ pnpm install
 pnpm start:dev
 
 # Or run the TS/JS demos
-cd packages/ts-nodejs
+cd packages/nodejs-ts
 pnpm install
 pnpm start
 ```

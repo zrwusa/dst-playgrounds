@@ -4,6 +4,6 @@
   "private": true,
   "description": "Playground demos for data-structure-typed — NestJS, React, Node.js (TS/JS)",
   "workspaces": [
-    "packages/*"
+    "apps/*"
   ]
 }

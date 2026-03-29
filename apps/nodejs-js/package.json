@@ -10,5 +10,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "description": "Node.js JavaScript examples for data-structure-typed — zero-config, no TypeScript required"
 }

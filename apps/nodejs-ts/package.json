@@ -14,5 +14,6 @@
   },
   "dependencies": {
     "data-structure-typed": "^2.5.2"
-  }
+  },
+  "description": "Node.js TypeScript examples for data-structure-typed — TreeMap, Heap, Deque, and more"
 }

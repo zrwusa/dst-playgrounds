@@ -1,0 +1,4 @@
+{
+  "startCommand": "pnpm start:dev",
+  "title": "data-structure-typed — NestJS Product API"
+}

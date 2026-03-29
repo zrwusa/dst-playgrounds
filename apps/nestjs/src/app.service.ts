@@ -73,6 +73,36 @@ export class AppService {
         body: null,
       },
       {
+        method: 'GET',
+        path: '/api/products/page?page=0&pageSize=3',
+        description: 'PAGINATE BY PRICE RANK (O(log n + k))',
+        body: null,
+      },
+      {
+        method: 'GET',
+        path: '/api/products/cheapest/3',
+        description: 'TOP N CHEAPEST PRODUCTS',
+        body: null,
+      },
+      {
+        method: 'GET',
+        path: '/api/products/expensive/3',
+        description: 'TOP N MOST EXPENSIVE PRODUCTS',
+        body: null,
+      },
+      {
+        method: 'GET',
+        path: '/api/products/cable-001/percentile',
+        description: 'PRICE PERCENTILE + DYNAMIC TIER',
+        body: null,
+      },
+      {
+        method: 'GET',
+        path: '/api/products/stats/median',
+        description: 'GET MEDIAN-PRICED PRODUCT (O(log n))',
+        body: null,
+      },
+      {
         method: 'PUT',
         path: '/api/products/p1',
         description: 'UPDATE PRODUCT',

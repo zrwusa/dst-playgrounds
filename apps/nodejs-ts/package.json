@@ -13,7 +13,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "data-structure-typed": "^2.5.2"
+    "data-structure-typed": "^2.6.1"
   },
   "description": "Node.js TypeScript examples for data-structure-typed — TreeMap, Heap, Deque, and more"
 }

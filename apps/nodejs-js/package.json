@@ -5,6 +5,9 @@
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
+  "stackblitz": {
+    "startCommand": "pnpm dev"
+  },
   "dependencies": {
     "data-structure-typed": "^2.6.1"
   },

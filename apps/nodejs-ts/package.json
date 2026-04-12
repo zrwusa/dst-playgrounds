@@ -7,6 +7,9 @@
     "build": "tsc -p tsconfig.json",
     "start:dist": "node dist/index.js"
   },
+  "stackblitz": {
+    "startCommand": "pnpm dev"
+  },
   "devDependencies": {
     "@types/node": "^20.0.0",
     "tsx": "^4.0.0",
